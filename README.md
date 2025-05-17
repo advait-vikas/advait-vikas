@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/671da2c1-8e4c-43c2-b8ea-aa6f23cb6919)
+![image](https://github.com/user-attachments/assets/6d05df1b-02a8-48f3-9796-ef355903d838)
+
 
 
  **💫 About Me:**
