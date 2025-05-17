@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/6d05df1b-02a8-48f3-9796-ef355903d838)
 
+![Dog Man GIF by Pluralsight](https://github.com/user-attachments/assets/2e921ffe-0c3c-41f2-aa01-b2d0f09bdba4)
 
 
  **💫 About Me:**
