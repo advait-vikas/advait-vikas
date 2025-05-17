@@ -1,4 +1,5 @@
-!["C:\Users\advai\Downloads\Dog Man GIF by Pluralsight.gif"]()
+![image](https://github.com/user-attachments/assets/671da2c1-8e4c-43c2-b8ea-aa6f23cb6919)
+
 
  **💫 About Me:**
 👋 Hi, I'm Advait Cheruvari Vikas!<br><br>I'm a beginner data enthusiast diving into the world of **Data Science** and **Machine Learning**. I enjoy exploring datasets, finding patterns, and turning data into meaningful insights through clean visualizations.<br><br> 🧠 Currently Learning:<br>- Python for Data Analysis<br>- Pandas, Matplotlib, Seaborn<br>- Exploratory Data Analysis (EDA)<br>- Basics of Machine Learning (Regression, Classification)<br><br> 🚀 Goals:<br>- Build a strong data portfolio<br>- Contribute to open-source projects<br>- Land a role in Data or ML<br><br> 🌱 Fun Fact:<br>I'm passionate about making messy data make sense — one chart at a time.<br><br>---<br><br>📬 **Let's Connect!**  <br>[LinkedIn](https://www.linkedin.com/in/advait-vikas-0007b8210/) <br><br> 🎯 Coding Profiles <br>- 💻[![HackerRank](https://img.shields.io/badge/HackerRank-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/advaitvikas)
